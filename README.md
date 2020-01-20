@@ -16,9 +16,7 @@ Gini in 2 axes: spatial vision by country, and temporal vision (evolution over t
 
     <img src="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/Capture.PNG">
     
-for more details see:
-
-    [Poster](https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/poster.pdf)
+for more details see: [Poster](https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/poster.pdf)
 
 
 ## Requirement
