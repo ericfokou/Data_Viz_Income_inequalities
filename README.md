@@ -31,11 +31,7 @@ for more details see: [Poster](https://github.com/ericfokou/Data_Viz_Income_ineq
 
 ## Usage example
 
-launch Jupyter notebook into terminal:
-
-    $ jupyter notebook
-
-Then run load_app.py:
+run load_app.py:
 
     $ python  load_app.py
     
