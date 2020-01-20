@@ -14,11 +14,11 @@ Gini in 2 axes: spatial vision by country, and temporal vision (evolution over t
 - Try to highlight the different factors that could influence the Gini index
 
 
-    <img src="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/Images/Capture.PNG">
+    <img src="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/Capture.PNG">
     
 for more details see:
 
-    <a href="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/Images/poster.pdf" target="_blank">`Poster`</a>
+    <a href="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/poster.pdf" target="_blank">`Poster`</a>
 
 
 ## Requirement
