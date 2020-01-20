@@ -4,7 +4,7 @@
 
 > The project aims to show income inequalities between countries over the years using a visualization tool.
 
-## algorithms description
+## Project Goal
 
 Two objectives:
 
@@ -18,7 +18,7 @@ Gini in 2 axes: spatial vision by country, and temporal vision (evolution over t
     
 for more details see:
 
-    <a href="https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/poster.pdf" target="_blank">`Poster`</a>
+    [Poster](https://github.com/ericfokou/Data_Viz_Income_inequalities/blob/master/poster.pdf)
 
 
 ## Requirement
